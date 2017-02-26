@@ -8,7 +8,6 @@ function Divisor(n) {
       results.push(i);
     }
   }
-
   return results;
 }
 console.log('Uoc So cua', (a), 'la', Divisor(a));
